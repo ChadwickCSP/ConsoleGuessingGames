@@ -2,14 +2,6 @@
 
 In this project you will explore writing console applications using C#.
 
-By the end of this project, you should be able to answer the following
-questions:
-
-* What is a Class and how does it relate to an Object?
-* What is a while loop?
-* What is a for each loop?
-* What is a List?
-
 ## Required Software:
 
 ### .NET
@@ -81,10 +73,6 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 
 TODO
 
-### Running the Project Examples
-
-TODO
-
 ## Milestone 1
 
 * **E Period** - Monday, October 25th @ 11:59 PM
@@ -149,7 +137,8 @@ Below is a flowchart that implements the entire Guessing Game.
 [User Input Example](#user-input-example) and the [Random Number Generator
 Example](#random-number-generator-example).
 
-TODO: Create video of the following:
+There is a tutorial video to help you get started:
+[LINK](https://drive.google.com/file/d/1AfU664VUtVyzeOVLO7GZh8CQDfZFMOwA/view?usp=sharing)
 
 1. Start by creating a new folder inside of the `solution` directory.
 2. Name this folder `SimpleGuessingGame`.
@@ -228,7 +217,8 @@ public static void DisplayReport(List<int> guesses);
 
 ### Getting Started
 
-TODO: Create video of the following
+There is a tutorial video to help you get started:
+[LINK](https://drive.google.com/file/d/1lKFepyq2XXKaAYof5dvYk9ni9wJWrqYw/view?usp=sharing)
 
 There is an incomplete pencil file in the `diagrams` directory of this project.
 [diagrams/SimplifiedGuessingGame.epgz](diagrams/SimplifiedGuessingGame.epgz)
@@ -301,7 +291,8 @@ public void DisplayReport();
 
 ### Getting Started
 
-TODO: Create video of the following
+There is a tutorial video to help you get started:
+[LINK](https://drive.google.com/file/d/1WEFVkOhP4_YqIt8p41Kaw3aoAHKqlt2t/view?usp=sharing)
 
 1. Create a new folder called `GuessingGame` inside of the `solution` directory.
 2. Create a new file called `GuessingGame.cs` inside of the new folder.
@@ -378,11 +369,87 @@ For example, `milestone-3-v2` or `milestone-3-v3`. For final grading, the
 `milestone-3` tag with the greatest version number will be used. After creating
 your tag, don't forget to push it to GitHub and verify it is available online.
 
+
+## Grading
+
+For this project, you will receive two project grades. One for Milestones 1 and
+2 and another for Milestones 3 and 4. You can think of this project as two
+related projects.
+
+### Computational Thinking
+
+In this assignment, you will demonstrate your understanding of flow charts,
+sequencing, selection, and iteration.
+
+| Advanced                                                    | Proficient                                                            | Basic                                                            | Below Basic                                                             |
+|-------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Student successfully implements all 3 Number Guessing Games | Student successfully implements the simplified Number Guessing Game   | Student Successfully implements the Simple Number Guessing Game  | Student does not successfully implement the Simple Number Guessing Game |
+|                                                             | Student attempts to complete the Object Oriented Number Guessing Game | Student attempts to complete the simplified Number Guessing Game |                                                                         |
+|                                                             |                                                                       | Student completes all 3 flowcharts.                              |                                                                         |
+
+### Computing, Programming, and Practice
+
+It is important for other people to be able to understand and follow your work.
+In this assignment, you will demonstrate your ability to commit your work to
+your repository, write reasonable commit messages, and provide a REAME.md
+document describing how your flow diagram relates to your chosen game's
+instructions. 
+
+| Advanced                                                                                          | Proficient                                                                                          | Basic                                                                          | Below Basic                                                                                                  |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Student follows all flowchart rules from Appendix A.                                              | Student created a tag for all milestones                                                            | Student tagged some of their milestones                                        | Student did not tag any of their milestones                                                                  |
+| Code blocks use syntax highlighting for the correct programming language                          | Student's README.md files contain all necessary headers, images, and code block                     | Student creates a README.md for their own adventure.                           | Student does not create a README.md for their own adventure or their README.md is not in the correct folder. |
+| All member variables have a comment.                                                              | The majority of member variables have a comment one or two variables may be missing a comment.      | More than two member variables are missing a comment.                          | More than half the member variables are missing a comment.                                                   |
+| All methods or functions have a comment                                                           | The majority of methods or functions have a comment one or two methods may be missing a comment.    | More than two methods or functions are  missing a comment.                     | More than half the methods or functions are missing a comment.                                               |
+| All code is formatted consistently.  Hint: Use (Command + Shift + P) and  select Format Document. | The majority of the code is formatted consistently. A one or two files may be missing formatting.   | More than two files are not formatted.                                         | More than half the files are not formatted.                                                                  |
+| All variables, methods, and functions have type  annotations.                                     | The majority of variables, methods, and functions have type annotations. One or two may be missing. | More than two variables, methods, or functions have a type annotation missing. | More than half the variables, methods, or functions are missing a type annotation.                           |
+| No variables, methods, or functions use the `any` type.                                           | One or two variables, methods, or functions use the `any` type.                                     | More than two variables, methods, or functions use the `any` type.             | More than half the variables, methods, or functions use the `any` type.                                      |
+
+### Skills of a Programmer
+
+Your skills of a programmer covers your Student Log repository, your in class
+time management, meeting deadlines, asking for help when needed, and helping
+others when able.
+
+
+| Advanced                                                                                                                  | Proficient                                                                                                                                                | Basic                                                                                                                                   | Below Basic                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Manages time well in class,  stays focused on work at hand at almost all times                                            | Focuses on work in class                                                                                                                                  | Focuses at times, can get distracted                                                                                                    | Uses class time poorly, is frequently distracted                                                    |
+| Meets all deadlines, ahead of schedule by at least 2 hours.                                                               | Meets deadlines or asks for an extension at least 48 hours ahead of time.                                                                                 | Delivers close to deadline, may be late  by a day or two                                                                                | Delivers work late or not at all                                                                    |
+| Participated on Piazza by asking a question, answering a question, or creating a helpful note for other students.         | Seeks assistance when needed                                                                                                                              | Needs prompting to seek assistance                                                                                                      | Does not seek assistance or ask for help when needed                                                |
+| Almost all log entries are pushed after creating them.                                                                    | Almost all log entries provide a consistent commit timestamp relative to the date mentioned in the entry. All log entries are pushed prior to milestones. | Log entries follow the proper  sign-on and sign-off format.                                                                             | Few or no log entries follow the proper sign-on and sign-off format.                                |
+| Student creates a sign-on and sign-off log entry  every class and between each block period. Only missing 1 or 2 entries. | Student creates a sign-on and sign-off log entry  almost every class and between each block period. Only missing 1 or 2 entries.                          | Student creates a sign-on and sign-off log entry most classes and almost always between each block period. Only missing 3 or 4 entries. | Student frequently misses creating a sign-on and sign-off log entry. Missing 5 or more log entries. |
+
+
+## Getting Help
+
+All questions should be posted to the class Piazza Q&A. You are also encouraged
+to help other students who post on Piazza. When you post your question, be sure
+to include as many details as possible for reproducing the issue you're having.
+
+Questions you should answer when asking a question include:
+
+1. What are you trying to do?
+2. What did you try?
+3. What was the result?
+
+Work hard to make sure the person trying to answer your question can reproduce
+your error. Share your files so others can run exactly what you're running.
+
+Also, include screenshot / pictures if applicable.
+
+Formulating good questions is a good life long skill. You should try asking your
+question on Piazza before seeking out synchronous time with Mx. Collard.
+However, if you would like to meet to discuss synchronously, first, look at [Mx.
+Collard's Calendar](http://tinyurl.com/collard-calendar), then send them an
+email with at least two proposed times you would like to meet.
+
 ## Appendix A: Examples
 
 ### User Input Example
 
-TODO: Create video showing the creation of this file.
+Video Walkthrough:
+[LINK](https://drive.google.com/file/d/1ZAD3kipCVTLxBcb7BdZUY4325468vBer/view?usp=sharing)
 
 This example shows how to print messages to the console as well as reading user
 input from the console.
@@ -394,7 +461,8 @@ method.
 
 ### Random Number Generator Example
 
-TODO: Create video showing the creation of this file.
+Video Walkthrough:
+[LINK](https://drive.google.com/file/d/1aPjyCk9F0VvQ8GtrD9qwiW70VJPP49ET/view?usp=sharing)
 
 This example shows how to generate a list of random numbers and print them to
 the console.
