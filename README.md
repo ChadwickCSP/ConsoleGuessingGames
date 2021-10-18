@@ -44,7 +44,7 @@ This plugin will help with spell checking your source code and Markdown files:
 
 ### Sign up for the Project
 
-TODO:
+Sign-up for the project: [LINK](https://classroom.github.com/a/Kh9ebWxh)
 
 ### Clone your repository
 
