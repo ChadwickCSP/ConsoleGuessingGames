@@ -76,7 +76,7 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 ![Step 0](support/initialize-project/step0.png)
 
 2. Open your project in VS Code.
-3. Open the Command Pallette (Command + Shift + P)
+3. Open the Command Palette (Command + Shift + P)
 4. Search for: `Omnisharp` and select `Omnisharp: Select Project`.
 
 ![Step 3](support/initialize-project/step1.png)
@@ -85,7 +85,7 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 
 ![Step 4](support/initialize-project/step4.png)
 
-5. Open the Command Pallette (Command + Shift + P)
+5. Open the Command Palette (Command + Shift + P)
 6. Search for: `restore` and select `.NET: Restore All Projects`.
 
 ![Step 6](support/initialize-project/step5.png)
@@ -94,7 +94,7 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 
 ![Step 7](support/initialize-project/step6.png)
 
-8. Open the Command Pallette (Command + Shift + P)
+8. Open the Command Palette (Command + Shift + P)
 9. Search for: `build` and select `Tasks: Run Build Task`
 
 ![Step 9](support/initialize-project/step7.png)
