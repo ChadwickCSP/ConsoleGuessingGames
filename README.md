@@ -44,7 +44,7 @@ This plugin will help with spell checking your source code and Markdown files:
 
 ### Sign up for the Project
 
-TODO:
+Sign-up for the project: [LINK](https://classroom.github.com/a/Kh9ebWxh)
 
 ### Clone your repository
 
@@ -71,7 +71,55 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 
 ### Initialize the Project
 
-TODO
+1. Open your project in VS Code.
+2. Open the Command Pallette (Command + Shift + P)
+3. Search for: `Omnisharp` and select `Omnisharp: Select Project`.
+
+![Step 3](support/initialize-project/step1.png)
+
+4. Select `ConsoleGuessingGames (All contained projects).
+
+![Step 4](support/initialize-project/step4.png)
+
+5. Open the Command Pallette (Command + Shift + P)
+6. Search for: `restore` and select `.NET: Restore All Projects`.
+
+![Step 6](support/initialize-project/step5.png)
+
+7. After a moment, you should see the following message in your `OUTPUT` tab:
+
+![Step 7](support/initialize-project/step6.png)
+
+8. Open the Command Pallette (Command + Shift + P)
+9. Search for: `build` and select `Tasks: Run Build Task`
+
+![Step 9](support/initialize-project/step7.png)
+
+10. Select `build`
+
+![Step 10](support/initialize-project/step8.png)
+
+11. This compiles the sample project. After a moment you should see the following output in the `TERMINAL` tab:
+
+![Step 11](support/initialize-project/step9.png)
+
+12. From the top menu, Select `Run` > `Run Without Debugging`
+
+![Step 12](support/initialize-project/step10.png)
+
+13. This will run the sample project. After a moment, you should see the following in the `DEBUG CONSOLE`
+
+![Step 13](support/initialize-project/step11.png)
+
+14. Click on the `TERMINAL` tab. You should see something similar to this:
+
+![Step 14](support/initialize-project/step12.png)
+
+15. Type your name into the console and press enter. Then type your age into the console.
+
+![Step 15](support/initialize-project/step13.png)
+
+16. Congratulations! You're ready to program in C#
 
 ## Milestone 1
 
