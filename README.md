@@ -2,6 +2,42 @@
 
 In this project you will explore writing console applications using C#.
 
+- [Console Guessing Games](#console-guessing-games)
+  - [Required Software:](#required-software)
+    - [.NET](#net)
+    - [C# Plugin for VS Code](#c-plugin-for-vs-code)
+    - [XML Documentation Comments Plugin](#xml-documentation-comments-plugin)
+    - [Spell Checker Plugin](#spell-checker-plugin)
+  - [Setting up the Project](#setting-up-the-project)
+    - [Sign up for the Project](#sign-up-for-the-project)
+    - [Clone your repository](#clone-your-repository)
+    - [Initialize the Project](#initialize-the-project)
+  - [Before Starting](#before-starting)
+  - [Milestone 1](#milestone-1)
+    - [Task List](#task-list)
+    - [Flowchart](#flowchart)
+    - [Getting Started](#getting-started)
+    - [Deliverable](#deliverable)
+  - [Milestone 2](#milestone-2)
+    - [Task List](#task-list-1)
+    - [Getting Started](#getting-started-1)
+    - [Deliverable](#deliverable-1)
+  - [Milestone 3](#milestone-3)
+    - [Task List](#task-list-2)
+    - [Getting Started](#getting-started-2)
+    - [Deliverable](#deliverable-2)
+  - [Milestone 4: AP Written Response](#milestone-4-ap-written-response)
+    - [Task List](#task-list-3)
+    - [Deliverable](#deliverable-3)
+  - [Grading](#grading)
+    - [Computational Thinking](#computational-thinking)
+    - [Computing, Programming, and Practice](#computing-programming-and-practice)
+    - [Skills of a Programmer](#skills-of-a-programmer)
+  - [Getting Help](#getting-help)
+  - [Appendix A: Examples](#appendix-a-examples)
+    - [User Input Example](#user-input-example)
+    - [Random Number Generator Example](#random-number-generator-example)
+
 ## Required Software:
 
 ### .NET
@@ -125,6 +161,13 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 
 16. Congratulations! You're ready to program in C#
 
+
+## Before Starting
+
+**Note**: Before starting to program for this milestone, you should study the
+[User Input Example](#user-input-example) and the [Random Number Generator
+Example](#random-number-generator-example).
+
 ## Milestone 1
 
 * **E Period** - Monday, October 25th @ 11:59 PM
@@ -182,12 +225,7 @@ Below is a flowchart that implements the entire Guessing Game.
 
 ![Guessing Game Flowchart](support/SimpleGuessingGameFlowchart.png)
 
-
 ### Getting Started
-
-**Note**: Before starting to program for this milestone, you should study the
-[User Input Example](#user-input-example) and the [Random Number Generator
-Example](#random-number-generator-example).
 
 There is a tutorial video to help you get started:
 [LINK](https://drive.google.com/file/d/1AfU664VUtVyzeOVLO7GZh8CQDfZFMOwA/view?usp=sharing)
