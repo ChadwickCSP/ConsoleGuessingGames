@@ -71,9 +71,13 @@ After you have signed up for the project, you can clone it using GitHub Desktop.
 
 ### Initialize the Project
 
-1. Open your project in VS Code.
-2. Open the Command Pallette (Command + Shift + P)
-3. Search for: `Omnisharp` and select `Omnisharp: Select Project`.
+1. For the installed software to work, you must completely exit VS Code. From the top menu, select `Code` > `Quit Visual Studio Code`
+
+![Step 0](support/initialize-project/step0.png)
+
+2. Open your project in VS Code.
+3. Open the Command Pallette (Command + Shift + P)
+4. Search for: `Omnisharp` and select `Omnisharp: Select Project`.
 
 ![Step 3](support/initialize-project/step1.png)
 
